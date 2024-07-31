@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AyTeaBee.
-- 👀 I’m interested in taking steps to become a software engineer!
-- 🌱 I’m currently learning basic understanding of problem solving, and how to utilize a problem solving mindset.
-- 💞️ If you're interested in my journey I'll be posting about it here or on youtube!
+- 🌱 I’m currently learning how to create an SCP SL plugin using a Class Library (.NET Framework).
 - 📖 You can contact me on Discord '@ayteabee'!
 
 <!---
